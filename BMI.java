@@ -10,6 +10,11 @@ import javax.swing.JOptionPane;
  *
  * @author ptduc
  */
+
+
+
+
+
 public class BMI extends javax.swing.JFrame {
 
     /**
